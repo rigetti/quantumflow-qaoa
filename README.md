@@ -78,7 +78,7 @@ If you use this code, please cite our paper:
   title={Performance of the Quantum Approximate Optimization Algorithm
 on the Maximum Cut Problem},
   author={Crooks, Gavin E},
-  note={https://arxiv.org/abs/XXXX.XXXXX},
+  note={https://arxiv.org/abs/1811.08419},
   year={2018}
 }
 ```
